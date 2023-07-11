@@ -1,0 +1,71 @@
+.image-container {
+  align-items: center;
+}
+
+.serie-image {
+  width: 50%;
+  height: 50%;
+  display: flex;
+}
+
+.ver {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #000000;
+  border: none;
+  border-radius: 4px;
+}
+
+.fs-4{
+  display: flex;
+  font-size: 60;
+  font-weight: regular;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.flex-wrap{
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  font-size: 60;
+  font-weight: bold;
+  font-style: oblique;
+  color: #ffffff;
+  background-color: #001056;
+  border: none;
+  border-radius: 0px;
+}
+
+.card-name{
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  font-size: 10;
+  font-weight: regular;
+  color: #ffffff;
+  background-color: #0201016f;
+  border: none;
+  border-radius: 0px;
+}
+
+.search-bar {
+  margin-bottom: 30px;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  border-radius: 20px;
+  border: 1px solid #2f0013;
+}
+
+.header-container {
+  background-color: #880d0d;
+}
